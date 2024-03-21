@@ -2,7 +2,7 @@
 
   <h3 align="center">An AI SaaS Platform</h3>
   How to use:
-  Register with Github or Google Account, after that you have differents tool to interact, you have 10 credits for free, you could pay with Stripe but just use other account so you have another 10!. Thats all!
+  Register with Github or Google Account, after that you have differents tools to interact, you have 10 credits for free, you could pay with Stripe but just use other account so you have another 10!. Thats all!
 
 </div>
 
