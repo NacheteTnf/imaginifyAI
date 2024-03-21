@@ -2,8 +2,8 @@
 
   <h3 align="center">An AI SaaS Platform</h3>
   How to use:
-  Register with Github or Google Account, after that you have differents tools to interact, you have 10 credits for free, you could pay with Stripe but just use other account so you have another 10!. Thats all!
-
+  Register with Github or Google Account, after that you have differents tools to interact, you have 10 credits for free, you could pay with Stripe but just use other account so you have another 10!. Thats all!.
+  Project Based by: JavaScript Mastery! (Its not my project, i'm just modify some things :) )
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -2268,7 +2268,7 @@ import { getUserById } from "@/lib/actions/user.actions";
 import Checkout from "@/components/shared/Checkout";
 
 const Credits = async () => {
-  const { userId } = auth();
+  const { userId } = auth(); 
 
   if (!userId) redirect("/sign-in");
 
